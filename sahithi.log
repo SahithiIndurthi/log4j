@@ -1,0 +1,10 @@
+[main] INFO  com.capgemini.log4g.log4g.App  - Iam an info
+[main] DEBUG com.capgemini.log4g.log4g.App  - Iam an debug
+[main] WARN  com.capgemini.log4g.log4g.App  - Iam an warn
+[main] ERROR com.capgemini.log4g.log4g.App  - Iam an error
+[main] FATAL com.capgemini.log4g.log4g.App  - Iam an fatal
+[d%][main] INFO  com.capgemini.log4g.log4g.App  - Iam an info
+[d%][main] DEBUG com.capgemini.log4g.log4g.App  - Iam an debug
+[d%][main] WARN  com.capgemini.log4g.log4g.App  - Iam an warn
+[d%][main] ERROR com.capgemini.log4g.log4g.App  - Iam an error
+[d%][main] FATAL com.capgemini.log4g.log4g.App  - Iam an fatal
